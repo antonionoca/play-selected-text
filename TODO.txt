@@ -1,0 +1,1 @@
+use mbrola for higher audio synthetization
